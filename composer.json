@@ -1,0 +1,20 @@
+{
+    "name": "yossef/scandiweb",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Core\\": "Core/",
+            "Http\\": "Http/",
+            "Repository\\": "Repository/",
+            "Service\\": "Service/"
+        },
+        "files": ["config.php"]
+    },
+    "authors": [
+        {
+            "name": "mohamed yossef",
+            "email": "2020.mohamed.yossef@gmail.com"
+        }
+    ],
+    "require": {}
+}
